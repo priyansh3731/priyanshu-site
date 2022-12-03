@@ -116,7 +116,7 @@ hr{
 
 section{
     padding: 2rem;
-    margin:100px;
+    margin: 50px;px;
 }
 
 .section h1{
@@ -153,11 +153,28 @@ section{
 
 .project{
     padding: 1rem;
-    width: 55%;
-    padding-left: 40%;
+    width: 95%;
 }
 
 
 .center{
     margin-left: 45%;
+}
+
+.secondary-center{
+    text-align: center;
+}
+
+
+.primary-center{
+    margin-left: 40%;
+}
+
+
+.blog-center{
+    margin-left: 30%;
+}
+
+.blog{
+    padding: 0rem 1rem;
 }
