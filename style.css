@@ -19,12 +19,13 @@ hr{
 
 
 .container{
-    padding: 0rem,1rem;
+    padding-bottom: 1rem;
+    text-align: center;
 }
 
 
 .container-center{
-    max-width: 600px;
+    max-width: 1200px;
     margin: auto;
 }
 
